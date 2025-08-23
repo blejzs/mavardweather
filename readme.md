@@ -15,6 +15,7 @@ View Results: The app will show all possible weather data of that location (temp
 
 Enjoy!
 
-<img width="816" height="411" alt="{C2F11C80-6D57-46D6-A31B-77AC6522F313}" src="https://github.com/user-attachments/assets/7359f89c-f391-4e89-9aea-1925022bc017" />
+<img width="679" height="345" alt="{246D31EB-BB42-4B61-BF74-74BB63E8E18D}" src="https://github.com/user-attachments/assets/413b0905-2555-4dfd-b0d5-22a72f4ce247" />
+
 
 
