@@ -17,7 +17,7 @@ Enjoy!
 
 <img width="679" height="345" alt="{246D31EB-BB42-4B61-BF74-74BB63E8E18D}" src="https://github.com/user-attachments/assets/413b0905-2555-4dfd-b0d5-22a72f4ce247" />
 
---
+---
 
 <img width="676" height="621" alt="{82658A1F-BA95-45A8-9C2F-4D1849045081}" src="https://github.com/user-attachments/assets/3875b39d-f9f4-4b9e-b8be-13e76b9378c2" />
 
