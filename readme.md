@@ -12,4 +12,5 @@ How to Use
 Type in a Location: Type a country, city or province in the search bar.
 Search: Hit 'Enter' or click 'Search' 😈
 View Results: The app will show all possible weather data of that location (temperature, wind speed and humidity).
+
 Enjoy!
