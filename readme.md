@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/07de05ee-32fc-46b1-a138-94e195f3e7d3" />
+
 ## Mavard Weather
 
 A clean and simple weather application built with Vanilla JavaScript, HTML, and CSS. Mavard Weather provides fast and reliable weather forecasts for any city in the world, combining a minimalist design with essential functionalities.
