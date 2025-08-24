@@ -1,4 +1,5 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/07de05ee-32fc-46b1-a138-94e195f3e7d3" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6ed0f1b5-fc2a-46e6-b43d-892b1fb808f5" />
+
 
 ## Mavard Weather
 
